@@ -623,4 +623,11 @@
   <data name="MalformedRunSettingsKey" xml:space="preserve">
     <value>One or more runsettings provided contain invalid token</value>
   </data>
+  <data name="OpenResponseFileError" xml:space="preserve">
+    <value>Error opening response file '{0}'</value>
+  </data>
+  <data name="ResponseFileArgumentHelp" xml:space="preserve">
+    <value>@&lt;file&gt;
+      Read response file for more options.</value>
+  </data>
 </root>

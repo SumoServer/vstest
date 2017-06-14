@@ -124,6 +124,11 @@ namespace Microsoft.VisualStudio.TestPlatform.CommandLine.Processors
         EnableDiagArgumentProcessorHelpPriority,
 
         /// <summary>
+        /// FrameworkArgumentProcessor Help
+        /// </summary>
+        ResponseFileArgumentProcessorHelpPriority,
+
+        /// <summary>
         /// CLIRunSettingsArgumentProcessor Help
         /// </summary>
         CLIRunSettingsArgumentProcessorHelpPriority
