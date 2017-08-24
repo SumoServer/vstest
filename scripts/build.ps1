@@ -16,11 +16,11 @@ Param(
     # E.g. VS 2017 Update 1 Preview will have version 15.1.1
     [Parameter(Mandatory=$false)]
     [Alias("v")]
-    [System.String] $Version = "15.5.0",
+    [System.String] $Version = "15.5.1",
 
     [Parameter(Mandatory=$false)]
     [Alias("vs")]
-    [System.String] $VersionSuffix = "dev",
+    [System.String] $VersionSuffix = "sumo",
 
     [Parameter(Mandatory=$false)]
     [Alias("ff")]
